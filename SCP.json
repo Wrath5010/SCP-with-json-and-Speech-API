@@ -1,0 +1,35 @@
+
+[
+    {
+        "subject": "SCP-002",
+        "Class": "Euclid",
+        "Description_sum": "SCP-002 appears as a large, fleshy growth with a volume of approximately 60 m³ (or 2000 ft³). It has an iron valve hatch leading to an interior resembling a modest-sized low-rent apartment, including a window that cannot be seen from the exterior. The furniture in the room is made of biological substances, such as sculpted bone and woven hair, with each object possessing independent or fragmented DNA sequences. Refer to the Mulhausen Report [cross-ref:document00.023.603] for discovery details.",
+        "Containment_sum": "Maintain SCP-002's connection to a power supply, close emergency barrier during electrical outages, use X-ray and ultraviolet light to restore power, maintain negative air pressure, require teams of at least two personnel within 20 meters, and restrict access to Level 3 and above personnel with special authorization.",
+        "Space": ""
+    },
+    {
+        "subject": "SCP-003",
+        "Class": "Euclid",
+        "Description_sum": "SCP-003 comprises two components: SCP-003-1, resembling an ancient chitinous computer motherboard, and SCP-003-2, a stone tablet covered in unintelligible runes emitting faint light patterns. SCP-003-2 is controlled by a non-biological internal computer with anomalous radiation capabilities. SCP-003-1 exhibits exponential growth when the temperature drops below 35°C, with two distinct stages. It 'templates' itself based on nearby organic material and emits radiation to inhibit growth. SCP-003-1's biology shares similarities with other SCP objects, such as SCP-███, SCP-1512, and SCP-2756, but connections remain unexplained.",
+        "Containment_sum": "Maintain SCP-003 at a temperature of at least 35°C, avoid contact with complex multicellular organisms, and ensure constant power supply to SCP-003-2 using Generator 003-IX. In case of power failure, personnel must have skin contact with SCP-003-1 to prevent activation. All personnel entering SCP-003's area must be checked for Category IV+ body parasites and sterilized if necessary. Report any changes in SCP-003-2's rune activity promptly."
+    },
+    {
+        "subject": "SCP-004",
+        "Class": "Euclid",
+        "Description_sum": "SCP-004 consists of an old wooden barn door (SCP-004-1) and a set of twelve rusted steel keys (SCP-004-2 through SCP-004-13). The door itself is the entrance to an abandoned factory in [DATA EXPUNGED].",
+        "Containment_sum": "Proper handling of items SCP-004-2 through SCP-004-13 is vital. They are not to be moved off-site without two Level 4 security personnel. Do not take any other component of SCP-004 through SCP-004-1. The effects of doing so are unknown and impractical to test. If any objects breach containment, keys must be brought inside, and the door closed before activating Site 62’s on-site warhead. Unauthorized key removal is grounds for immediate termination. Level 1 clearance for basic access to SCP-004-1; Level 4 clearance required for SCP-004-2 to -13."
+    },
+    {
+        "subject": "SCP-005",
+        "Class": "Safe",
+        "Description_sum": "SCP-005 resembles an ornate key from the 1920s and possesses the unique ability to open various locks, including mechanical and digital, with ease. It was discovered after a civilian used it to infiltrate a high-security facility. The origin of this ability remains undetermined.",
+        "Containment_sum": "Special measures in place to restrict access and manipulation of SCP-005. Approval from at least one (1) Level 4 personnel is necessary for the object's removal from its containment area."
+    },
+    {
+        "subject": "SCP-006",
+        "Class": "Safe",
+        "Description_sum": "SCP-006 is a small spring located 60 km west of Astrakhan. It was secured by the Foundation in 1991, having been known since the 19th century but inaccessible due to political reasons. A chemical factory disguises its true nature. The liquid emitted from the spring is identified as mineral water with unique 'health' properties. Ingesting it enhances DNA regeneration, cellular duplication, tissue repair, and the immune system. Testing on animals showed immediate destruction of hostile agents, while higher primates and humans experience similar benefits.",
+        "Containment_sum": "While SCP-006 itself doesn't require extensive physical containment, strict secrecy is paramount due to its anomalous effects. The primary containment focus is to conceal its existence and properties from personnel interacting with it. This secrecy is crucial for security reasons."
+    }
+]
+
